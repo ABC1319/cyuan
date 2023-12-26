@@ -165,72 +165,6 @@
     "reverseOrder": false
   },
   {
-    "id": 16,
-    "key": "naichaapi",
-    "name": "奶茶资源",
-    "api": "https://caiji.naichaapi.com/inc/api.php",
-    "jiexiUrl": "",
-    "group": "18+",
-    "isActive": true,
-    "status": "可用",
-    "reverseOrder": false
-  },
-  {
-    "id": 17,
-    "key": "apilyzy",
-    "name": "老鸭",
-    "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml",
-    "jiexiUrl": "",
-    "group": "18+",
-    "isActive": true,
-    "status": "可用",
-    "reverseOrder": false
-  },
-  {
-    "id": 18,
-    "key": "wmcj8",
-    "name": "AG资源",
-    "api": "http://wmcj8.com/inc/sapi.php",
-    "jiexiUrl": "",
-    "group": "18+",
-    "isActive": true,
-    "status": "可用",
-    "reverseOrder": false
-  },
-  {
-    "id": 19,
-    "key": "lb",
-    "name": "乐播",
-    "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
-    "jiexiUrl": "",
-    "group": "18+",
-    "isActive": true,
-    "status": "可用",
-    "reverseOrder": false
-  },
-  {
-    "id": 20,
-    "key": "bttcj",
-    "name": "BT天堂",
-    "api": "http://bttcj.com/inc/sapi.php",
-    "jiexiUrl": "",
-    "group": "18+",
-    "isActive": true,
-    "status": "可用",
-    "reverseOrder": false
-  },
-  {
-    "id": 21,
-    "key": "kuaibozy",
-    "name": "快播资源",
-    "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml",
-    "jiexiUrl": "",
-    "group": "影视",
-    "isActive": true,
-    "status": "可用",
-    "reverseOrder": false
-  },
-  {
     "id": 22,
     "key": "FOX资源(切)",
     "name": "FOX资源(切)",
@@ -459,61 +393,6 @@
     "isActive": true,
     "status": "可用",
     "reverseOrder": false
-  },
-  {
-    "key": "caiji25",
-    "name": "咪咪资源 ",
-    "api": "http://www.caiji25.com/home/cjapi/p0as/mc10/vod/xml",
-    "jiexiUrl": "",
-    "group": "18+",
-    "isActive": true,
-    "status": "可用",
-    "reverseOrder": false,
-    "id": 45
-  },
-  {
-    "key": "秀色资源",
-    "name": "秀色资源 ",
-    "api": "https://api.xiuseapi.com/api.php/provide/vod/at/xml",
-    "jiexiUrl": "",
-    "group": "18+",
-    "isActive": true,
-    "status": "可用",
-    "reverseOrder": false,
-    "id": 46
-  },
-  {
-    "key": "小姐姐资源",
-    "name": "小姐姐资源 ",
-    "api": "https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml",
-    "jiexiUrl": "",
-    "group": "18+",
-    "isActive": true,
-    "status": "可用",
-    "reverseOrder": false,
-    "id": 47
-  },
-  {
-    "key": "精工厂资源",
-    "name": "精工厂资源 ",
-    "api": "https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml",
-    "jiexiUrl": "",
-    "group": "18+",
-    "isActive": true,
-    "status": "可用",
-    "reverseOrder": false,
-    "id": 48
-  },
-  {
-    "key": "番号资源",
-    "name": "番号资源 ",
-    "api": "http://fhapi9.com/api.php/provide/vod/at/xml",
-    "jiexiUrl": "",
-    "group": "18+",
-    "isActive": true,
-    "status": "可用",
-    "reverseOrder": false,
-    "id": 49
   },
   {
     "key": "U酷资源",
